@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+snowflake-connector-python
+snowflake-snowpark-python
+redshift-connector
+boto3
+openpyxl
